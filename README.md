@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasad Vundraladurga</h1>
+<h1 align="center">Hi 👋, I'm V Durga Prasad</h1>
 <h3 align="center">B.Tech (IoT) | Full Stack Developer | Machine Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **Next.js, MongoDB, and advanced React**
